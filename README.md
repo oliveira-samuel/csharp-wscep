@@ -9,7 +9,7 @@
 👤 **Samuel Alexandre de Oliveira**
 
 * Website: http://samuelprofessor.blogspot.com/
-* Github: [@saaoliveira](https://github.com/saaoliveira)
+* Github: [@saaoliveira](https://github.com/oliveira-samuel)
 * LinkedIn: [@aoliveirasamuel](https://linkedin.com/in/aoliveirasamuel)
 
 ## Show your support
