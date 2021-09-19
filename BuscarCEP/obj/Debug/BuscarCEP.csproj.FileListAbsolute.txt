@@ -1,0 +1,10 @@
+C:\projetos\c_sharp\cep\BuscarCEP\bin\Debug\BuscarCEP.exe.config
+C:\projetos\c_sharp\cep\BuscarCEP\bin\Debug\BuscarCEP.exe
+C:\projetos\c_sharp\cep\BuscarCEP\bin\Debug\BuscarCEP.pdb
+C:\projetos\c_sharp\cep\BuscarCEP\obj\Debug\BuscarCEP.csprojAssemblyReference.cache
+C:\projetos\c_sharp\cep\BuscarCEP\obj\Debug\BuscarCEP.Frm_ConsultarCEP.resources
+C:\projetos\c_sharp\cep\BuscarCEP\obj\Debug\BuscarCEP.Properties.Resources.resources
+C:\projetos\c_sharp\cep\BuscarCEP\obj\Debug\BuscarCEP.csproj.GenerateResource.cache
+C:\projetos\c_sharp\cep\BuscarCEP\obj\Debug\BuscarCEP.csproj.CoreCompileInputs.cache
+C:\projetos\c_sharp\cep\BuscarCEP\obj\Debug\BuscarCEP.exe
+C:\projetos\c_sharp\cep\BuscarCEP\obj\Debug\BuscarCEP.pdb
